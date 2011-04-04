@@ -1,0 +1,16 @@
+include travail-common
+root = /media/LACIE/travail
+addprefsto = cle-common
+perms = 0
+ignore = Path {translator-1.00}
+
+ignore = Path {1S}
+ignore = Path {1STG}
+ignore = Path {201}
+ignore = Path {1_S}
+ignore = Path {1_STG}
+ignore = Path {Snd_1}
+ignore = Path {mps}
+ignore = Path {S}
+ignore = Path {STG}
+ignore = Path {Snd}

@@ -1,0 +1,31 @@
+inlude travail-common-local-root
+
+ignore = Name */{myhead.sty}
+ignore = Name {.git}
+ignore = Name {,.}*{.git}
+ignore = Name {,.}*{.elc}
+ignore = Name {,.}*{.el}
+ignore = Name {,.}*{.aux}
+ignore = Name {,.}*{~}
+ignore = Name {*.dvi}
+ignore = Name {*.ps}
+ignore = Name {_region_*}
+ignore = Name {,.}*{.thm}
+ignore = Name {,.}*{.log}
+ignore = Name {_region_.}*
+ignore = Name {_region_.tex}
+ignore = Name {auto}
+ignore = Name {,.}*{.vrb}
+
+ignore = Name {prv_*}
+ignore = Path {old.git}
+
+ignore = Path {test.*}
+
+ignore = Name {,.}*{.nav}
+ignore = Name {,.}*{.out}
+ignore = Name {,.}*{.toc}
+ignore = Name {,.}*{.odt#}
+ignore = Name {,.}*{.docx#}
+ignore = Name {,.}*{.org#}
+ignore = Name {,.}*{.tex#}

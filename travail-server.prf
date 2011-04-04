@@ -1,0 +1,3 @@
+root = ssh://photos@lot-of-stuff.info//home/photos/travail
+include travail-common
+addprefsto = travail-common

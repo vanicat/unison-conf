@@ -1,4 +1,4 @@
-inlude travail-common-local-root
+include travail-common-local-root
 
 ignore = Name */{myhead.sty}
 ignore = Name {.git}

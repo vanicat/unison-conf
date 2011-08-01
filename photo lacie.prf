@@ -1,0 +1,4 @@
+root = /home/moi/Images
+root = /media/lacie/photos
+perms=0
+ignore = Path {chipboard}

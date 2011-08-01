@@ -1,0 +1,16 @@
+root = /home/moi/Images
+root = ssh://photos@lot-of-stuff.info//home/photos/Images
+maxthreads = 4
+ignore = Name {,.}*{.xml}
+ignore = Name {,.}*{.db}
+ignore = Path {.thumbnails}
+ignore = Path {chipboard/blou}
+ignore = Path {chipboard/find_cmd}
+ignore = Path {chipboard/images/toto.rb}
+ignore = Path {chipboard/url}
+ignore = Path {chipboard/wget_cmd}
+ignore = Name {,.}*{.txt}
+ignore = Name {,.}*{.ini}
+ignore = Name {,.}*{.exv}
+ignore = Path {.htaccess~}
+ignore = Path {photo/.htaccess~}

@@ -29,3 +29,4 @@ ignore = Name {,.}*{.odt#}
 ignore = Name {,.}*{.docx#}
 ignore = Name {,.}*{.org#}
 ignore = Name {,.}*{.tex#}
+ignore = Path {2010-2011 STG.zip}

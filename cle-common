@@ -14,3 +14,4 @@ ignore = Path {mps}
 ignore = Path {S}
 ignore = Path {STG}
 ignore = Path {Snd}
+ignore = Path {apd}

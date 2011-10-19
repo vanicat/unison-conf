@@ -15,3 +15,4 @@ ignore = Path {S}
 ignore = Path {STG}
 ignore = Path {Snd}
 ignore = Path {apd}
+ignore = Path {cours/premiere/apd/apd}

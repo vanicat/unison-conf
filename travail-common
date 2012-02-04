@@ -1,6 +1,5 @@
 include travail-common-local-root
 
-ignore = Name */{myhead.sty}
 ignore = Name {.git}
 ignore = Name {,.}*{.git}
 ignore = Name {,.}*{.elc}

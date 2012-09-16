@@ -3,5 +3,6 @@ path = cours/TESX/
 path = cours/TSTG/
 path = cours/SpeTES/
 path = cours/SpeTS/
+path = cours/AP/
 
 include cle-common

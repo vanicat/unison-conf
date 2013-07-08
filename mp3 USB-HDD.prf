@@ -1,0 +1,5 @@
+root = /home/moi/mp3
+root = /media/moi/USB-HDD/Musique/
+perms=0
+
+ignore = Path {xmms2/clients/nycli.conf~}

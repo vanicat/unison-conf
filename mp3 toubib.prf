@@ -1,0 +1,6 @@
+root = /home/moi/mp3
+root = ssh://moi@toubib/mp3
+
+perms=0
+
+ignore = Path {xmms2/clients/nycli.conf~}
